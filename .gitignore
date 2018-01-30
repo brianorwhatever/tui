@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+music/*
+venv
+__pycache__
